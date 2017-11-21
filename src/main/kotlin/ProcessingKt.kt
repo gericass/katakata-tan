@@ -10,9 +10,7 @@ class ProcessingKt : PApplet() {
         size(600, 600, P3D)
     }
 
-    override fun setup() {
-
-    }
+    override fun setup() {}
 
     override fun draw() {
 
@@ -43,5 +41,4 @@ fun main(args: Array<String>) {
     val server = GatewayServer(app)
     server.start()
     System.out.println("Gateway Server Started")
-    //ProcessingKt().run()
 }

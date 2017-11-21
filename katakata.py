@@ -9,7 +9,7 @@ def iter_chars(filename):
         yield ch
 
 if __name__ == "__main__":
-    with open('HomeActivity.java', encoding='utf-8') as f:
+    with open('src/main/kotlin/ProcessingKt.Kt', encoding='utf-8') as f:
         content = f.read()
     for i in content:
         kb = readchar.readchar()
