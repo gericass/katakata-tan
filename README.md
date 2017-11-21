@@ -16,3 +16,7 @@ katakata-tan is the program that code can be input like an expert even in a prog
 2. Run `katakata.py`
 3. Type words in command line without `q`
 4. Type `q`
+
+## sample
+
+![sample]https://github.com/gericass/katakata-tan/blob/media/sample.gif
