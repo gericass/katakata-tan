@@ -19,4 +19,4 @@ katakata-tan is the program that code can be input like an expert even in a prog
 
 ## sample
 
-![sample]https://github.com/gericass/katakata-tan/blob/media/sample.gif
+![sample](https://github.com/gericass/katakata-tan/blob/media/media/sample.gif)
